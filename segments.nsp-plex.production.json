@@ -533,12 +533,6 @@
     "fp:Wish 5696s": [],
     "fp:Wreck-It Ralph 6074s": [],
     "fp:Zootopia 6512s": [],
-    "ratingKey:15278": [
-      [
-        5.0,
-        12.0
-      ]
-    ]
   },
   "__note__": "Moana patch: added [5,12] test segment; ratingKey:15278 mirrors fp:Moana 6433s"
 }
