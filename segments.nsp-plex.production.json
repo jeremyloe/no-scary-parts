@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-10-01T13:08:51",
+  "generated_at": "2025-10-01T20:30:12",
   "items": {
     "fp:Aladdin 5694s": [
       [
@@ -230,7 +230,7 @@
         4526.5
       ]
     ],
-    "fp:Moana 6433s": [
+    "fp:Moana 6684s": [
       [
         164.7,
         185.0
@@ -317,7 +317,12 @@
     "fp:Luck 6324s": [],
     "fp:Madagascar 5158s": [],
     "fp:Madagascar: Escape 2 Africa 5364s": [],
-    "fp:Moana 6433s": [],
+    "fp:Moana 6433s": [
+      [
+        5.0,
+        12.0
+      ]
+    ],
     "fp:Moana 2 5994s": [],
     "fp:Mufasa: The Lion King 7258s": [],
     "fp:Mulan 5270s": [],
@@ -349,6 +354,13 @@
     "fp:The Wild Robot 6107s": [],
     "fp:Wish 5696s": [],
     "fp:Wreck-It Ralph 6074s": [],
-    "fp:Zootopia 6512s": []
-  }
+    "fp:Zootopia 6512s": [],
+    "ratingKey:15278": [
+      [
+        5.0,
+        12.0
+      ]
+    ]
+  },
+  "__note__": "Moana patch: added [5,12] test segment; ratingKey:15278 mirrors fp:Moana 6433s"
 }
