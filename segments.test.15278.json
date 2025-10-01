@@ -1,30 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2025-10-01T03:49:10",
   "items": {
-    "ratingKey:15278": [
-      [
-        5,
-        12,
-        "test jump early"
-      ],
-      [
-        22,
-        26,
-        "second quick jump"
-      ]
-    ],
-    "fp:<Your Movie Title> 6432s": [
-      [
-        5,
-        12,
-        "test jump early"
-      ],
-      [
-        22,
-        26,
-        "second quick jump"
-      ]
-    ]
+    "ratingKey:15278": [[5,12,"test"], [22,26,"test"]],
+    "fp:Plex 6432s": [[5,12,"test"], [22,26,"test"]]
   }
 }
