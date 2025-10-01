@@ -281,7 +281,28 @@
     "fp:Anastasia 5651s": [],
     "fp:The AristoCats 4708s": [],
     "fp:The Bad Guys 6007s": [],
-    "fp:Beauty and the Beast 5505s": [],
+    "fp:Beauty and the Beast 5505s": [
+      [
+        735.0,
+        835.5
+      ],
+      [
+        986.6,
+        1052.0
+      ],
+      [
+        1377.8,
+        1601.0
+      ],
+      [
+        2757.9,
+        3072.0
+      ],
+      [
+        4301.2,
+        4483.8
+      ]
+    ],
     "fp:Beauty and the Beast 7440s": [],
     "fp:Big Hero 6 6111s": [],
     "fp:Brave 5617s": [],
@@ -290,12 +311,79 @@
     "fp:Coco 6302s": [],
     "fp:Elemental 6088s": [],
     "fp:The Emperor's New Groove 4716s": [],
-    "fp:Encanto 6127s": [],
+    "fp:Encanto 6127s": [
+      [
+        1516.0,
+        1578.5
+      ],
+      [
+        3250.4,
+        3357.5
+      ],
+      [
+        4415.0,
+        4504.0
+      ],
+      [
+        4700.0,
+        4847.0
+      ]
+    ],
     "fp:FernGully: The Last Rainforest 4553s": [],
     "fp:Finding Dory 5824s": [],
     "fp:Finding Nemo 6054s": [],
-    "fp:Frozen 6133s": [],
-    "fp:Frozen II 6194s": [],
+    "fp:Frozen 6133s": [
+      [
+        2511.8,
+        2660.0
+      ],
+      [
+        3494.8,
+        3655.0
+      ],
+      [
+        4193.0,
+        4331.0
+      ],
+      [
+        4985.6,
+        5251.0
+      ]
+    ],
+    "fp:Frozen II 6194s": [
+      [
+        214.21,
+        242.162
+      ],
+      [
+        2095.703,
+        2176.812
+      ],
+      [
+        2248.669,
+        2317.907
+      ],
+      [
+        2723.81,
+        2819.226
+      ],
+      [
+        3643.11,
+        3735.803
+      ],
+      [
+        4165.688,
+        4226.933
+      ],
+      [
+        4286.313,
+        4420.84
+      ],
+      [
+        4645.482,
+        4857.862
+      ]
+    ],
     "fp:The Good Dinosaur 5630s": [],
     "fp:Happy Feet 6512s": [],
     "fp:Home 5628s": [],
@@ -304,14 +392,70 @@
     "fp:How to Train Your Dragon: The Hidden World 6084s": [],
     "fp:The Incredibles 6926s": [],
     "fp:Incredibles 2 7069s": [],
-    "fp:Inside Out 5690s": [],
+    "fp:Inside Out 5690s": [
+      [
+        3323.0,
+        3580.693
+      ]
+    ],
     "fp:Inside Out 2 5781s": [],
-    "fp:The Jungle Book 6355s": [],
+    "fp:The Jungle Book 6355s": [
+      [
+        2831.788,
+        2876.99
+      ],
+      [
+        4126.75,
+        4346.0
+      ]
+    ],
     "fp:Kubo and the Two Strings 6096s": [],
     "fp:Kung Fu Panda 5530s": [],
     "fp:Lilo & Stitch 5124s": [],
-    "fp:The Lion King 5304s": [],
-    "fp:The Little Mermaid 3781s": [],
+    "fp:The Lion King 5304s": [
+      [
+        1152.0,
+        1344.703
+      ],
+      [
+        1531.2,
+        1824.459
+      ],
+      [
+        2323.718,
+        2456.942
+      ],
+      [
+        4304.572,
+        4862.198
+      ]
+    ],
+    "fp:The Little Mermaid 3781s": [
+      [
+        350.4,
+        534.7
+      ],
+      [
+        1337.2,
+        1492.4
+      ],
+      [
+        1948.7,
+        2300.0
+      ],
+      [
+        2337.8,
+        2356.0
+      ],
+      [
+        2667.0,
+        2729.2
+      ],
+      [
+        4257.6,
+        4526.5
+      ]
+    ],
     "fp:The Little Mermaid 8114s": [],
     "fp:Luca 5715s": [],
     "fp:Luck 6324s": [],
@@ -319,8 +463,20 @@
     "fp:Madagascar: Escape 2 Africa 5364s": [],
     "fp:Moana 6433s": [
       [
-        5.0,
-        12.0
+        164.7,
+        185.0
+      ],
+      [
+        1579.4,
+        1590.2
+      ],
+      [
+        4370.5,
+        4544.0
+      ],
+      [
+        5001.9,
+        5390.0
       ]
     ],
     "fp:Moana 2 5994s": [],
@@ -328,7 +484,20 @@
     "fp:Mulan 5270s": [],
     "fp:Pocahontas 4869s": [],
     "fp:Ponyo 6530s": [],
-    "fp:The Princess and the Frog 5850s": [],
+    "fp:The Princess and the Frog 5850s": [
+      [
+        1873.429,
+        1971.853
+      ],
+      [
+        2879.0,
+        2975.914
+      ],
+      [
+        4606.656,
+        4912.029
+      ]
+    ],
     "fp:Puss in Boots: The Last Wish 6141s": [],
     "fp:Ratatouille 6633s": [],
     "fp:Raya and the Last Dragon 6449s": [],
@@ -344,7 +513,16 @@
     "fp:Soul 6031s": [],
     "fp:Space Jam: A New Legacy 6929s": [],
     "fp:Strange World 6106s": [],
-    "fp:Tangled 6017s": [],
+    "fp:Tangled 6017s": [
+      [
+        4938.95,
+        5050.3
+      ],
+      [
+        5084.4,
+        5099.8
+      ]
+    ],
     "fp:Toy Story 4865s": [],
     "fp:Toy Story 2 5576s": [],
     "fp:Toy Story 3 6154s": [],
